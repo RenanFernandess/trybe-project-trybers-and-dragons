@@ -1,7 +1,7 @@
 import { EnergyType } from '../Energy';
 import Archetype from './Archetype';
 
-export default abstract class Necromancer extends Archetype {
+export default class Necromancer extends Archetype {
   private static _createdArchetypeInstances = 0;
   private _energyType: EnergyType;
 

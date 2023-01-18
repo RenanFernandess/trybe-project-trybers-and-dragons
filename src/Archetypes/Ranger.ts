@@ -1,7 +1,7 @@
 import { EnergyType } from '../Energy';
 import Archetype from './Archetype';
 
-export default abstract class Ranger extends Archetype {
+export default class Ranger extends Archetype {
   private static _createdArchetypeInstances = 0;
   private _energyType: EnergyType;
 
