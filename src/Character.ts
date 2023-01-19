@@ -37,7 +37,7 @@ export default class Character implements Fighter {
   get energy(): Energy { return { ...this._energy }; }
 
   public receiveDamage(attackPoints: number): number {
-    const damage = this.defense - attackPoints;
+    const damage = Math.abs(attackPoints - this.defense);
     if (damage > 0) this._lifePoints -= damage;
     if (damage <= 0) this._lifePoints -= 1;
     if (this._lifePoints <= 0) this._lifePoints = -1;
