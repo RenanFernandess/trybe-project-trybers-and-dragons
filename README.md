@@ -11,3 +11,41 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+## Sobre o Projeto
+
+...
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Construído com
+  * typeScript
+  
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Começando
+
+...
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Uso
+
+...
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Contato
+
+* Renan Fernandes - [linkedin](https://www.linkedin.com/in/renan-fernandes-0aa437238/) - renzinestuods@gmail.com
+
+<!-- Project Link: [trybe-project-zoo-functions](https://github.com/RenanFernandess/trybe-project-zoo-functions) -->
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
+## Agradecimentos
+
+* [Trybe](https://www.betrybe.com/)
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
