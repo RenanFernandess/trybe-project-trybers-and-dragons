@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # :construction: README customizado em construção ! :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
@@ -14,7 +15,8 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 
 ## Sobre o Projeto
 
-...
+Projeto que realizei na  Trybe no período de desemvovimento back-end, esse projeto tinha como objetivo aplicar os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
